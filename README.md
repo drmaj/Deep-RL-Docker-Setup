@@ -1,4 +1,4 @@
-# Deep-RL-Docker-Setup
+# Deep RL Docker Setup
 Vanilla Docker Setup for Deep Reinforcement Learning in python.
 
 
